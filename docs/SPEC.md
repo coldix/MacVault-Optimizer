@@ -16,10 +16,6 @@ It goes beyond macOS's built-in Storage Management by providing deeper, user-con
 - Strong focus on safety and transparency.
 
 ### Core Features
-- Smart System Scan & Visualization
-- Targeted Cleanup Modules (Caches, Duplicates, etc.)
-- Safety & Control (Previews, Undo)
-- Automation & Maintenance
-- Privacy First
+(See full details in previous planning documents)
 
-Full detailed spec available in conversation history.
+[Full detailed spec can be expanded here as we progress]
