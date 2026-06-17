@@ -2,15 +2,14 @@
 
 ## Xcode Setup
 - Xcode 16+
-- Apple Developer Account
-- macOS 14+ target
+- Apple Developer Account (for signing)
+- Enable Full Disk Access for testing
 
 ## Coding Standards
-- SwiftLint recommended
-- Version headers with Melbourne timestamp
+- SwiftLint (optional)
+- Version headers with Melbourne timestamp in every file
 - Comprehensive comments on all file operations
-- Strict safety for deletions
+- Comprehensive unit tests for safety-critical code
 
-## Collaboration
-Grok as QC Reviewer / Architect
-Claude as primary coder
+## Versioning
+Every significant file update must carry a version header and Melbourne time.
